@@ -15,7 +15,7 @@ jobs:
       # Generate Snake Animation SVG
       - uses: Platane/snk@v3
         with:
-          github_user_name: thepiyushmalhotra
+          github_user_name: agrawalchaitany
           outputs: |
             dist/github-contribution-grid-snake.svg
 
