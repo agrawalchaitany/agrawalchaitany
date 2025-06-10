@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey there! 👋 I'm Chaitany
 
-<!--
-**agrawalchaitany/agrawalchaitany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views](https://komarev.com/ghpvc/?username=agrawalchaitany&style=flat-square&color=2e3440)](https://github.com/agrawalchaitany)
+[![GitHub followers](https://img.shields.io/github/followers/agrawalchaitany?label=Followers&style=flat-square&color=2e3440)](https://github.com/agrawalchaitany?tab=followers)
+[![Stars](https://img.shields.io/github/stars/agrawalchaitany?label=Stars&style=flat-square&color=2e3440)](https://github.com/agrawalchaitany?tab=stars)
 
-Here are some ideas to get you started:
+🎓 B.Tech Student &nbsp;|&nbsp; 📊 Data Science & ML Enthusiast &nbsp;|&nbsp; 🧠 Always Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love turning data into stories and building ML projects that solve real-world problems. From solar panels to cyber threats, I’m exploring it all. 🚀
+
+---
+
+## 🛠 Tech I Use
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=flat&logo=lightgbm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=agrawalchaitany&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&hide_rank=true&card_width=350" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalchaitany&layout=compact&theme=tokyonight&hide_border=true&card_width=300" height="165"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Play Snake!
+
+<p align="center">
+  <img alt="snake gif" src="https://github.com/agrawalchaitany/agrawalchaitany/blob/output/github-snake-dark.svg"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chaitany-agrawal-749a15225)
+[![Email](https://img.shields.io/badge/Email-agrawalchaitany@gmail.com-red?style=flat-square&logo=gmail)](mailto:agrawalchaitany@gmail.com)
+
+---
+
+*Thanks for stopping by!* ✌️
