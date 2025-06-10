@@ -11,32 +11,17 @@ I love turning data into stories and building ML projects that solve real-world 
 ---
 
 ## 🛠 Tech I Use
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=flat&logo=lightgbm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=agrawalchaitany&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&hide_rank=true&card_width=350" height="165"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalchaitany&layout=compact&theme=tokyonight&hide_border=true&card_width=300" height="165"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🐍 Play Snake!
 
-<p align="center">
+<p align="left">
   <img alt="snake gif" src="https://github.com/agrawalchaitany/agrawalchaitany/blob/output/github-snake-dark.svg"/>
 </p>
 
